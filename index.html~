@@ -1,0 +1,21 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Encora blog</title>
+
+</head>
+
+<body>
+  <pre>
+    Welcome to my encora academy blog.
+
+    These are my weekly notes:
+  </pre>
+  <ol>
+    <li>week 1</li>
+  </ol>
+</body>
+</html>
