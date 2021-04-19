@@ -1,0 +1,71 @@
+Week 2
+
+Software development is much more of a social activity than it is a
+technical one. Now, my point isn't that it isn't technical at all, but
+the way that people have refined software development processes into
+the practices we see in today's industry certainly points to the fact
+that if you place communication and collaboration first, you're bound
+to improve when it comes to performance as an organization.
+
+And it really makes sense why. If you feel comfortable at the
+workplace and are constantly encourage to bring your ideas to the
+table, then that's a sure path to learning how to identify good ideas,
+working on them and most importantly, building your intuition as a
+professional. This last point is critical because it's the only way to
+eventually get to become a master at your craft.
+
+The issue often lies in how companies and teams can start to improve
+their performance. It's kind of a part of human nature to resist
+change. This, many times makes it quite difficult for people to let go
+of their 'old ways' and make way for innovation but it's really all
+about trying things in small steps. This way, there isn't a lot of
+risk and you can still try out new ways to work without
+inconveniencing others or bugging them too much. Small steps can
+really pile up into a mountain of success, I guess.
+
+Now, reality is a bit brutal and many times, work isn't going to be
+all about cool things like improving or becoming more efficient. At
+many companies you still have to play the game and see how you can
+climb the 'ladder of success' and be in a position with enough power
+to be able to at least try to bring on some change to the
+organization. That's the way things are sometimes, but if you realize
+that once you've climbed high enough to be able to really influence
+others, then you can finally use power to bring on change (as opposed
+to just bossing people around). It's in these scenarios where talking
+to the right people is very valuable.
+
+The technicality of software development is often the first thing
+beginners like me try to latch onto. And It's really all about balance
+between social and technical skills. Actually, a lot of tecnical
+aspects at the beginning are quite simple. For example, trying to
+choose the best language for a project is all about evaluating very
+measurable aspects of a language and seeing if the outcomes of said
+evaluations provide a good fit for the project's context. A big part
+of this evaluation process is actually seeing if you're productive
+enough with the language or not, and that aspect is best evaluated
+when actually focusing on the opinions of people. This is another
+great example on the social aspect of development.
+
+It's funny because sometimes you just need to adopt the use of a
+language because you have to. That's a great example of how agility
+comes into play when picking up a new skill. You fail fast and hard,
+but you learn tremendously in a short amount of time thanks to
+those brutal failures. 
+
+Even the quality of the sleep you're getting is a great way to improve
+performance at work (and life in general, too). You just have to be
+willing to try out and experiment with your sleep to be able to
+improve it. Experimenting and playing around with stuff, accepting
+failure in your experiments and constantly is the best way to
+summarize the agile mindset.
+
+To try and illustrate my experience so far with 'agility', I actually
+went through a great learning experience this week. I had to learn
+enough clojure to be able to solve a problem, I had to do some bash
+scripting and I'm currently trying to learn how to write an essay
+properly. And I also feel like I've failed all three of those (so
+that's great! A whole lot of learning has happened).
+
+The point of all this is that we need to constantly improve our social
+skills, not just the technical ones. If we've got a solid social base,
+it'll provide a great aid in collaboration and building strong teams.
