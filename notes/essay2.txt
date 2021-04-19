@@ -8,7 +8,7 @@ that if you place communication and collaboration first, you're bound
 to improve when it comes to performance as an organization.
 
 And it really makes sense why. If you feel comfortable at the
-workplace and are constantly encourage to bring your ideas to the
+workplace and are constantly encouraged to bring your ideas to the
 table, then that's a sure path to learning how to identify good ideas,
 working on them and most importantly, building your intuition as a
 professional. This last point is critical because it's the only way to
@@ -62,9 +62,23 @@ summarize the agile mindset.
 To try and illustrate my experience so far with 'agility', I actually
 went through a great learning experience this week. I had to learn
 enough clojure to be able to solve a problem, I had to do some bash
-scripting and I'm currently trying to learn how to write an essay
-properly. And I also feel like I've failed all three of those (so
-that's great! A whole lot of learning has happened).
+scripting (find is a pretty cool command) and I'm currently trying to
+learn how to write an essay properly. And I also feel like I've failed
+all three of those (so that's great! A whole lot of learning has
+happened). I also was able to see that taking breaks really does help
+you clear your head. I often sit in front of the computer and struggle
+with simple tasks (and I try to solve this by trying to focus, but it
+rarely succeeds) but since i felt I had a bit more on my plate this
+week, I gave 'having breaks' a go. I actually did find it helpful and
+I was able to carry out my assignments pretty smoothly. I'll try to
+make that 'taking a break' habit stick with me.
+
+Adding a bit more to my experience with agility, I tried to watch this
+week's videos in short bursts of 60 to 90 minutes followed by a ~30
+minute break to see if it actually made watching videos less
+difficult. To my surprise, it actually did help a bit. I felt like the
+videos went by faster and I retained what the videos said a bit better
+than last week.
 
 The point of all this is that we need to constantly improve our social
 skills, not just the technical ones. If we've got a solid social base,
