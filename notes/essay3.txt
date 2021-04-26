@@ -1,0 +1,78 @@
+Week 3
+
+Innovative thinking is something that's (at least in my opinion) been
+historically rare. Even today, few people decide to go forth with
+their own ideas that they themselves might consider a bit 'over the
+top'. Mainly it's just because they don't feel that their idea will be
+supported by others. Maybe they don't have the resources necessary to
+materialize their idea. A lot of factors come into play
+
+Most times, these crazy new ideas won't even appeal to the majority at
+the beginning. It's only natural. These ideas are usually propagated
+by people that have already tried them out and confirmed that they
+yield some positive result. Like any social change, it is usually
+brought to the table by a select few that follow the idea with a
+passion and eventually, if the community deems it to be worthy, the
+idea becomes something mainstream. 
+
+A great example of how this slow, societal change progresses can be
+seen pretty much every day in the tech industry. When new projects
+come out, those who were there from the beginning will stick to it
+passionately. Then, if these passionate 'evangelists' manage to
+actually prove that their project is beneficial to some process or
+community, then most likely that project will gain more
+traction. After the community grows large enough, these great ideas
+may even become de facto standards (like perhaps what git has become
+inside the world of version control, or what TDD and BDD have become
+in modern software development). Ideas that seem good need to be tried
+out to see what happens. You never know how impactful an idea can
+become (like the role of quantum computing in the future).
+
+Even though all this talk of great ideas is nice and poetic, many
+times ideas are backed up because of the people that defend them and
+not the ideas themselves (for example, Windows is very widely used due
+to Microsoft's business tactics).
+
+But, it's when you realize that the impact you yourself may have on
+others when presenting new ideas, the more social the process
+becomes. Having a great idea is one thing, but the next steps are
+usually easier if you present yourself as an approachable, positive
+person (although this isn't necessarily a rule, it usually helps out a
+lot).
+
+So, if you can be a team player and are also able to polish out good
+ideas, that's already a great start for any new project that you might
+want to present to the community. It's also the most organic witness
+the life cycle of an idea. Many times this organic approach is the
+complete opposite to what big corporations do (for example intel
+selling the same architecture with new features to the point that we
+still have remains of it inside our own processors). But not
+everything's usually that easy. You need to put in a lot of effort
+into your idea in order to get some kind of functional 'prototype' up
+and running. Here's where the 'skill' factor comes into play: In order
+to flesh out a cool idea (let's say a cool text editor) you'd probably
+have to start with the basics, and that is, programming the
+editor. Many times our imagination is limited due to the fact that a
+lot of technology lacks the expressivity necessary to bring ideas to
+life in a very short period of time. There's usually a lot of leg work
+involved so, perhaps a good idea can be creating new, specialized and
+very expressive tools for different fields. That way, we can start
+bridging the gap between ourselves and computers.
+
+The tech industry obviously excels at pushing ideas onto consumers,
+and it shows. Nowadays, we are constantly bombarded by ads, videos,
+articles, or any piece of media that made it's way to us thanks to a
+myriad of data analysis tools. We are the data being loaded onto the
+machine. Thanks to this, we can live the effects of what big data (on
+the societal level) really means. But that's not the end of the
+story. Mass data analysis can also be used in very helpful ways, such
+as fraud detection or aiding the healthcare industry. Everything's not
+that bad.
+
+In the end, ideas are just ideas and we need to work on them and
+present them to the world to see if they can stand the test of time to
+prove their worth. The best ideas are those that can be challenged
+over and over again and still stand afterwards. I don't think that an
+idea can last forever but, usually those that stick around are pretty
+nice.
+
