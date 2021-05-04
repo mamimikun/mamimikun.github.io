@@ -1,0 +1,112 @@
+Month 1 - reset phase.
+
+This text comes in four sections.
+
+1.  Learning how to Learn
+
+This course focuses on trying to make you aware of how our brain works when
+learning. The main objective of this is to try and exploit our 'brain power' so
+that we can stop wasting our time trying to learn things in an old-fashioned
+way. That, or simply to improve the way we navigate through the learning
+process. A key concept about learning is that of 'chunking'. Chunking is
+essentially learning something so well that it becomes second nature to you and
+you stop thinking about 'how to do it' and you just do it. A chunk can be
+thought of as a bundle of information inside our heads. The main objective when
+it comes to learning is to be able to properly form chunks so that we can
+gradually understand things in an intuitive manner without thinking about all of
+the underlying details. Chunks can also work together so that you can group
+several of them when trying to do something or learn something new.
+
+
+Now, to be able to form chunks is another mammoth task. Chunking is best done by
+properly taking the first steps of learning. These steps are: practice spaced
+repetition; learn in small increments so that you don't overlearn; get some
+exercise; use mnemonics; get a good night's sleep; stop procrastinating and use
+something like the pomodoro technique; reward yourself periodically, and a few
+more that I must've missed. In the end, even though we're all different and we
+might have different approaches and preferences to learning, these tips and
+techniques are tried and tested; and pretty much work for the majority.
+
+Also, another great point about the course is to seek out an enriched
+environment and take full advantage of its resources. When you place yourself
+inside such an environment, you are usually exposed to much more information and
+people from which you can learn.
+
+2.  Code
+
+So, this book is a 'recap of computers'. The mission of the book is to take some
+cool, dense concepts and pack it into a very understandable formats. If you go
+back to the very early days of telecommunications, you'll find that the presence
+of binary code has always been strong. From binary onwards, it manages to build
+up on the essential electrical knowledge needed to know how binary logic can be
+represented in order to perform computations. During this 'electrical
+foundation' period, you arrive at the relay, which is equivalent to the
+transistor in terms of its switching capacity.
+
+Moving past the electrical concepts, the next part tackles boolean logic and
+building circuits based off this logic. It's a great way to illustrate the
+operation of combinatorial circuits and it gives you the building blocks of an
+ALU. This way, you can make a pretty smooth transition from digital logic to
+computer architecture. And it's when you arrive at computer architecture when
+the book really comes together. I feel that this is the goal of the book, to
+organically arrive at architecture.
+
+Moving on to the architecture part, you glue together all of the previous
+concepts and end up with a clear picture of how the classic, seemingly immortal
+Von Neumann architecture (It's kind of funny how Von Neumann just managed to
+casually mold the future of computing while also being proficient at everything
+he ever learned). Reaching this point is where the reader can finally be able to
+understand how the classic computer chips worked; and since most mainstream
+processors haven't really gone that far from this 'architecture norm', you're
+able to really understand a lot of today's computing.
+
+Finally having understood the huge hardware background of computers, you can
+move on to the next big thin: Software and user interaction, which the book
+manages to introduce at the very end. And here's where you see how programming
+has come to be and how graphics where introduced into the very un-graphical
+world of computing.
+
+To be honest, the book really does mention a lot of concepts but in the end it
+paints a pretty picture of what computers are and how our systems evolved to
+eventually get to the world of computing. I still think it has way too many
+concepts though.
+
+3.  Make it Stick
+
+This book and the coursera course complement each other very nicely. It goes on
+and explains how to suck less at learning stuff and how to actually start
+improving.
+
+First off, managing your own time is key. I'm someone that has zero knowledge
+about time management and I can attest the consequences it has. If you manage to
+get past the hurdle of actually organizing your life (i.e. getting it together),
+then you can go ahead and start practicing the outlined study techniques. And
+these are really varied.
+
+With studying techniques, you've got: spaced repetition; quizzing yourself on
+stuff you don't know before you study it; studying in short intervals (here's
+where those organization skills really come into play); quiz yourself on the
+stuff you already studied; actually writing things down instead of typing them
+into your computer; interleaving the topics you study; attending group study
+sessions and so on.
+
+Another great point which the book is the psychological one. If you don't have
+the mindset necessary to persist on your learning, to overcome the difficulties
+in your path and to try out new learning methods, then you're not really going
+to get that far. That's just how reality works. Learning is just like any other
+process and you need to iterate and check out what works out for you and what
+just doesn't click with your style.
+
+In the end, you just gotta work hard and clever. 
+
+4. Things I learned during month 1
+
+(please excuse the ordered list format)
+
+    1.  When in doubt, ask for help.
+    2.  Learn how to ask for help (Learn how to make precise, meaningful
+        questions).
+    3.  Communication is the basis for all teamwork.
+    4.  Use pomodoro when you don't feel like doing something.
+    5.  Being able to explain something is just as important as being able to
+        understand it.

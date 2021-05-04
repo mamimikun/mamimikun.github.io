@@ -1,0 +1,75 @@
+Week 4
+
+Let's start off with Feynman. A great scientist that had an extraordinary
+capability of explaining things in simple, elegant ways. Besides the fact that
+he was very accomplished in the field of physics (he was even a nobel prize
+winner), he was a man of diverse interests. One of his fields of interest during
+his later years was that of computer science. He eventually said that if we were
+to simulate a quantum system, we would need a quantum computer.
+
+And years later, we arrived at quantum computing. Now, science faces new
+challenges within this field and is slowly unveiling the impact that it'll
+have. If we follow the (slightly more understandable) algebraic representation
+of qubits, we can see that things like machine learning (which is a bunch of
+linear algebra algorithms) becomes much more faster to compute. But it really
+doesn't stop at machine learning. It's due to the fact that you can operate on
+vectors instead of single-digit bits that you cans go so fast. Quantum computing
+can have a great impact on the time complexity of known algorithms, but that's
+really outside the scope of this little essay.
+
+A weird question that stems from this quantum computing stuff could be: If
+quantum mechanics is the basis for the rules of our universe, then can we
+eventually siimulate a universe like ours using a quantum computer?. I
+personally, don't know if the question makes sense but Stephen Wolfram seems to
+like the idea of simulating small universes that derive from a set of small and
+simple rules (although quantum mechanics are everything but simple). So, it
+would be pretty nice to see if the scientists were right, and by simulating
+seemingly random phenomena using quantum computers, maybe the world could start
+to make sense.
+
+But, going back to what people have accomplished using only classical computing,
+you can really see how far a small set of simple rules can go. We are constantly
+surrounded by a huge network that has us connected to everyone. Network
+infrastructure, protocols and the applications that sit above them are the
+living manifestation of how far distributed systems have gone. Even though vast
+computing resources are dominated by large tech companies, the internet is by
+nature, decentralized and distributed. And with these huge systems, there can be
+many faults and failures. Even by trying to something to them, you can cause
+something to go wrong.
+
+This is where a lot of testing tools come into play. The fact that even a
+developer could be the one responsible for a failure inside a product is a risk
+that needs to be controlled somehow. It's not always going to be 100%
+controlled, but you can still control it just enough such that to a customer or
+user, everything seems just fine and dandy. Many times, this control is carried
+out by a variety of different testing tools that developers have at their
+disposal. Usually when integrating new changes to a large codebase, a lot of
+challenges can arise, such as: spending less computing resources when testing;
+finding the best way to run tests together; managing dependencies when testing
+and so on. In order to make good, reliable software, you really need to spend a
+lot of time in engineering good testing solutions. Still, if the team has
+managed to pass all the tests they considered necessary and are ready to ship
+out a new release or a new product, a real-life production environment is
+something a lot less predictable where even more variables that can lead to
+failure can be introduced.
+
+And that's where another concept called 'chaos engineering' comes into
+play. Another way to test massive systems and having results that seem closer to
+reality can be obtained by experimenting directly on the production system
+itself. By doing this, you can find out about things that might've remained
+unknown. Or, simply continue to prove the resilience of the system. Obviously,
+this type of testing isn't going to go well if your entire system consists of a
+single, monolithic server and a backup but when it comes to massive, distributed
+systems that have been engineered with fault tolerance in mind, this particular
+method of testing is quite useful (Netflix explains it very well with their
+microservice-based architecture). Something that chaos engineering also includes
+in its testing scopes are issues that are inherent to distributed systems
+themselves, such as network latency and bandwidth, topology changes, etc.
+
+Testing is kind of like a pair of shoes. You're better off with the ones best
+suited to your specific needs. And for that, you really need to sit down and
+take a look at what you're doing.
+
+And when you're trying to test very loosely coupled pieces of software that act
+together, you should always consider what happens when large portions of the
+system can fail.
