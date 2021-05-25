@@ -1,0 +1,61 @@
+Week 6
+
+This week we struggled a lot with our internal organization. Basically, we used
+a kanban style board and tried to work with that. To our surprise, we barely
+managed to get a few individual frontend components up and running (by
+themselves, each on their own branch) and a half-baked backend with a few
+issues.
+
+To put it short, we failed to deliver the sprint goal. And it was pretty much
+only due to human factors like our organization. Two learning experiences came
+out from this: How to actually present an incomplete deliverable to a client and
+how to really break down user stories into tasks.
+
+For the first part, we realized that we actually did have some progress (like a
+60% chunk) of what we needed to deliver. So, we just went ahead and said to the
+client 'Here's what we actually managed to do'. We said this by first presenting
+a chart that reflected our actual progress followed by recordings of several
+standalone components.
+
+So, yeah. We actually didn't even do that well when it came to presenting our
+progress, but what we did managed to leave the client with an acceptable
+impression. So, when it comes to saying 'we didn't manage to finish the job',
+stressing what you achieved is key. But it still depends on the client if
+they're ok with it or not.
+
+When it came to our poor internal organization with the way we defined a task on
+our kanban-style board, we followed advice and started defining our tasks in a
+better way. We made the tasks less dependent, smaller, and much more explicit
+(our tasks used to be entire user stories, so they were really huge). What did
+this leave us with? smaller diffs on our commits (that means we were able to
+actually able to perform better code reviews because we met less changes on each
+pull request), more communication (we now constantly talk with each other about
+technical questions, debating on what looks cleaner, and about the dependencies
+we notice along the way).
+
+So, tasks are better off when they're small.
+
+When it comes to the technical aspect of things, this week was also filled with
+a bunch of new things. First off, I learned a bit about how REST APIs are made
+with java (specifically, spring). JPA makes the whole database mess a bit more
+maintainable while spring actually manages to produce some really small,
+readable code (yes, in java). So, that was really fun (also, spring is
+completeley LOADED with features, like, that thing has everything built-in). So,
+my introductory steps to APIs in java were really fun.
+
+When it came to finally programming something for our frontend app, that was
+something really different for me. We chose React for our frontend (I'd never
+really used react before) and things were pretty confusing at first but
+thankfully, the React tutorial and a lot of documentation for the packages we
+chose are very straightforward.
+
+So, what was this week's lesson? The organizational issues come first, the
+technical ones come later. If the team isn't able to achieve a true,
+uninterrupted workflow then the team should stop coding. It's that easy. Also,
+communication is a huge factor when it comes to reaching that 'flow' state in
+which work actually gets done. If people don't mention their blockers as soon as
+they encounter them, if they don't mention what's wrong with the pull request as
+soon as possible, etc. then the team will not move forward as optimally.
+
+So, communicating on time is something that everyone should be aware of.
+
