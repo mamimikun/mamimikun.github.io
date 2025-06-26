@@ -43,8 +43,12 @@ p {
 
 input
 {
+  background-color: black;
+  color: white;
+  font-family: 'Perfect DOS VGA 437 Win', sans-serif;
+  text-align: center;
   font-size: 3rem;
-  width: 6rem;
+  width: 8rem;
   height: 6rem;
 }
 
