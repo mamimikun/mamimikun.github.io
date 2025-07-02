@@ -1,0 +1,15 @@
+---
+title: ""
+date: 2025-06-28T18:21:12-06:00
+draft: true
+---
+<section class="center-card-section" id="section-header">
+  <h1>Mauricio Martínez</h1>
+  <h3>
+    Welcome to my homepage
+  </h3>
+</section>
+
+{{ range site.data.resume }}
+{{ partial "center_card_section.html" }}
+{{ end }}

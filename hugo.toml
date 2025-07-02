@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'mamimikun personal website'
+theme = 'mamimikun_theme'

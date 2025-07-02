@@ -1,0 +1,277 @@
+/* main styles */
+
+body {
+  font-family: 'Perfect DOS VGA 437 Win', sans-serif;
+  font-size: 1.5rem;
+  color: white;
+  background-color: black;
+}
+
+.invisible {
+  display: none;
+}
+
+.main-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.center-card {
+  margin-top: 6ch;
+  display: flex;
+  flex-direction: column;
+  max-width: 84ch;
+  justify-content: center;
+  align-items: center;
+}
+
+.center-card-section {
+  box-sizing: border-box;
+  width: 100%;
+  padding-left: 2ch;
+  padding-right: 2ch;
+  border: 1ch solid white;
+  margin-bottom: 5ch;
+}
+
+.center-card-section:focus {
+  background-color: #00cd00;
+}
+
+.center-card-section li {
+  list-style-type: square;
+}
+
+.hrule {
+  box-sizing: border-box;
+  width: 100%;
+  background-color: white;
+  height: 1ch;
+  min-height: 1ch;
+}
+
+/* navbar style */
+
+.navbar {
+  display: block;
+  background-color: black;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+  z-index: 1;
+  align-items: center;
+  padding: 1ch;
+  border-bottom: solid 1ch #00cd00;
+  overflow: visible;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+.ul-navbar li {
+  display: block;
+  float: left;
+  margin-left: 1ch;
+  margin-right: 1ch;
+}
+
+.ul-navbar a{
+  display: block;
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+  background-color: #00cd00;
+}
+
+#home-link-small {
+  display: none;
+}
+
+#home-link-full {
+  margin-left: 2ch;
+  float: left;
+  color: white;
+  text-decoration: none;
+  padding: 0;
+}
+
+/* collapsible sidebar styles */
+
+.ul-navbar-dropdown {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.ul-navbar {
+  float: right;
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@media only screen and (max-width: 768px) {
+  a:hover {
+    cursor: pointer;
+    background-color: #00cd00;
+  }
+  .ul-navbar {
+    display: none;
+  }
+  .ul-navbar.nav-expanded {
+    width: 100%;
+    float: left;
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .ul-navbar a {display: none;}
+  .ul-navbar.nav-expanded a{
+    float: none;
+    display: block;
+    text-align: left;
+    margin-left: 1ch;
+  }
+  .ul-navbar.nav-expanded li{
+    display: block;
+    width: 100%;
+  }
+
+  #nav-dropdown-icon.nav-expanded{
+    margin-top: 1ch;
+    margin-right: 1ch;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  #nav-dropdown-icon {
+    color: white;
+    text-decoration: none;
+    float: right;
+  }
+
+  #home-link-full {
+    display: none;
+  }
+
+  #home-link-small {
+    display: block;
+    margin-left: 2ch;
+    float: left;
+    color: white;
+    text-decoration: none;
+    padding: 0;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  a:hover {
+    cursor: pointer;
+    background-color: #00cd00;
+  }
+  .navbar-header.nav-expanded {
+    float: left;
+    display: block;
+    width: 100%;
+  }
+  .ul-navbar {
+    display: none;
+  }
+  .ul-navbar.nav-expanded {
+    float: left;
+    display: block;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .ul-navbar a {display: none;}
+  .ul-navbar.nav-expanded a{
+    float: none;
+    display: block;
+    text-align: left;
+    margin-left: 1ch;
+  }
+  .ul-navbar.nav-expanded li{
+    display: block;
+    width: 100%;
+  }
+
+  #nav-dropdown-icon.nav-expanded{
+    margin-top: 1ch;
+    margin-right: 1ch;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  #nav-dropdown-icon {
+    color: white;
+    text-decoration: none;
+    float: right;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .nav-expanded{}
+  .ul-navbar {
+    float: right;
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .ul-navbar-dropdown {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .ul-navbar li {
+    float: left;
+    margin-left: 1ch;
+    margin-right: 1ch;
+    box-sizing: border-box;
+    width: auto;
+  }
+  .ul-navbar a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+  }
+
+  .ul-navbar.nav-expanded li {
+    float: left;
+    margin-left: 1ch;
+    margin-right: 1ch;
+    width: 100%;
+  }
+  .ul-navbar.nav-expanded a{
+    display: block;
+    color: white;
+    text-decoration: none;
+  }
+
+  #nav-dropdown-icon {
+    display: none;
+  }
+}

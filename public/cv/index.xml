@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cvs on mamimikun personal website</title>
+    <link>http://localhost:1313/cv/</link>
+    <description>Recent content in Cvs on mamimikun personal website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jun 2025 15:23:10 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cv</title>
+      <link>http://localhost:1313/cv/cv/</link>
+      <pubDate>Fri, 27 Jun 2025 15:23:10 -0600</pubDate>
+      <guid>http://localhost:1313/cv/cv/</guid>
+      <description>{{ define &#34;main&#34; }}&#xA;&lt;div class=&#34;center-card&#34;&gt;&#xA;  &lt;section class=&#34;center-card-section&#34; id=&#34;section-header&#34;&gt;&#xA;    &lt;h1&gt;Mauricio Martínez&lt;/h1&gt;&#xA;    &lt;p&gt;&#xA;      I&#39;m a programmer/SWE.&#xA;    &lt;/p&gt;&#xA;    &lt;div id=&#34;section-experience&#34;&gt;&lt;/div&gt;&#xA;  &lt;/section&gt;&#xA;  &#xA;  &#xA;  &#xA;  &lt;section class=&#34;center-card-section&#34; &gt;&#xA;    &lt;h2&gt;Experience&lt;/h2&gt;&#xA;&#xA;    &lt;h3&gt;Software Engineer - Galileo (May 2024 - Current)&lt;/h3&gt;&#xA;    &lt;p&gt;&#xA;      Working on diverse efforts for payment processing applications for&#xA;      emerging markets in Latin America.&#xA;    &lt;/p&gt;&#xA;    &lt;ul&gt;&#xA;      &lt;li&gt;&#xA;&#x9;&lt;p&gt;&#xA;&#x9;  Worked on a features relevant to the Latin American market to&#xA;&#x9;  be able to cater to specific customer needs.&#xA;&#x9;&lt;/p&gt;&#xA;      &lt;/li&gt;&#xA;      &lt;li&gt;&#xA;&#x9;&lt;p&gt;&#xA;&#x9;  Developed numerous internal monitoring and alerting flows to&#xA;&#x9;  improve our incident response process.&#xA;&#x9;&lt;/p&gt;&#xA;      &lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;    &#xA;    &lt;h3&gt;Senior Software Engineer - Citibanamex (Mar. 2024 - May 2024)&lt;/h3&gt;&#xA;    &lt;p&gt;&#xA;      Gave customer support for internal-facing infrastructure and&#xA;      worked on migrations.&#xA;    &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

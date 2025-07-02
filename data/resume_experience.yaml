@@ -1,0 +1,60 @@
+- title: Software Engineer
+  company: SoFi/Galileo
+  duration: May 2024 - Current
+  description: >
+    Working on diverse efforts for payment processing applications for emerging
+    markets in Latin America.
+  highlights:
+    - Worked on a features relevant to the Latin American market to be able to
+      cater to specific customer needs.
+    - Developed numerous internal monitoring and alerting flows to improve our
+      incident response process.
+
+- title: Senior Software Engineer
+  company: Citibanamex
+  duration: Mar. 2024 - May 2024
+  description: >
+    Gave customer support for internal-facing infrastructure and worked on
+    migrations.
+  highlights:
+    - Worked on infrastructure support and data segregation for various
+      internal platforms.
+
+- title: Sensei
+  company: dev.f
+  duration: Feb. 2024 - Mar. 2024
+  description: >
+    Taught basic web development to students in a course given by dev.f, an
+    online programming school.
+
+- title: Software Developer 2
+  company: Oracle
+  duration: Jun. 2021 - Mar. 2024
+  description: >
+    Worked on a distributed filesystem/LVM and tools that wrap around it to
+    provide a robust storage solution for customers.
+  highlights:
+    - Solved several high-availability issues in the network layer of the
+      filesystem/LVM that needed urgent attention due to customer workflows
+      being interrupted.
+    - Designed and implemented an XML parser using Perl. After this, an external
+      parser was no longer needed (thus getting rid of possible security issues)
+      and writing parser extensions for other teams is easier.
+    - Designed and implemented several command-line storage features for quicker
+      and easier customer interaction with the product.
+
+- title: Intern
+  company: Encora
+  duration: Apr. 2021 - Jun. 2021
+  description: >
+    Worked as a web development intern, mostly focused on a project that involved
+    minimizing food loss within Sonora, Mexico.
+  highlights:
+    - Lead a delivery and inventory management project by assigning tasks to my
+      6 team members based on priority and workload considering each of my
+      teammate's skills resulting in a timely delivery of the MVP within a
+      month.
+    - Designed and implemented the backend logic for the delivery management
+      module using Java. Also wrote the frontend for this using React. This
+      module improved delivery times by 14% during the first two weeks of
+      deployment.
