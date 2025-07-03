@@ -1,4 +1,4 @@
-baseURL = 'https://mamimikun.github.io/mamimikun'
+baseURL = 'https://mamimikun.github.io/'
 languageCode = 'en-us'
 title = 'mamimikun personal website'
 theme = 'mamimikun_theme'
