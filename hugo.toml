@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mamimikun.github.io/mamimikun'
 languageCode = 'en-us'
 title = 'mamimikun personal website'
 theme = 'mamimikun_theme'

@@ -1,10 +1,14 @@
 <nav class="navbar">
-  <a id="home-link-full" class="navbar-header" href='{{ "/" | relURL }}' id="home-link-full">[mauricio@homepage ~]$ &#9610;</a>
-  <a id="home-link-small" class="navbar-header" href='{{ "/" | relURL }}' id="home-link-small">~$ &#9610;</a>
+  <a id="home-link-full" class="navbar-header" href='{{ "/" | relURL }}' id="home-link-full">
+      [mauricio@homepage ~]$
+    <span id='cursor-blinky'>
+      &#9608;
+    </span>
+  </a>
+  <a id="home-link-small" class="navbar-header" href='{{ "/" | relURL }}' id="home-link-small">~$ <span id='cursor-blinky'>&#9608;</span></a>
   <ul class="ul-navbar" id="ul-navbar">
     <li><a href='{{ "pages/resume" | relURL }}'>[Resume]</a></li>
-    <li><a href='{{ "pages/resume" | relURL }}'>[Resume]</a></li>
-    <li><a href='{{ "pages/resume" | relURL }}'>[Resume]</a></li>
+    <li><a href='{{ "programs/" | relURL }}'>[Programs]</a></li>
   </ul>
   <a role="button" id="nav-dropdown-icon">[...]</a>
 </nav>

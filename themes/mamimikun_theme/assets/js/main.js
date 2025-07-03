@@ -1,3 +1,10 @@
+function blink_cursor() {
+  let blinky = document.getElementById("cursor-blinky");
+  const cursor_text = '&#9608;';
+  blinky.innerHTML = (blinky.innerHTML == '█') ?
+    '&#9617;' : '&#9608;';
+}
+
 window.addEventListener("load", (event) => {
   console.log("heyeheyehyehey");
   let dropdown_icon = document.getElementById("nav-dropdown-icon");
@@ -15,4 +22,7 @@ window.addEventListener("load", (event) => {
       navbar_header.className = (navbar_header.className === "navbar-header") ?
           "navbar-header nav-expanded" : "navbar-header" ;
   });
+
+  setInterval(blink_cursor, 500)
 });
+
