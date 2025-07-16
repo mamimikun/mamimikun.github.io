@@ -1,12 +1,15 @@
 function blink_cursor() {
   let blinky = document.getElementById("cursor-blinky");
+  let blinky_sm = document.getElementById("cursor-blinky-sm");
+  
   const cursor_text = '&#9608;';
   blinky.innerHTML = (blinky.innerHTML == '█') ?
+    '&#9617;' : '&#9608;';
+  blinky_sm.innerHTML = (blinky.innerHTML == '█') ?
     '&#9617;' : '&#9608;';
 }
 
 window.addEventListener("load", (event) => {
-  console.log("heyeheyehyehey");
   let dropdown_icon = document.getElementById("nav-dropdown-icon");
   let navbar_header = document.getElementById("home-link-full");
 
