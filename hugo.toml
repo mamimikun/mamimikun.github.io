@@ -2,3 +2,6 @@ baseURL = 'https://mamimikun.github.io/'
 languageCode = 'en-us'
 title = 'mamimikun personal website'
 theme = 'mamimikun_theme'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
