@@ -29,8 +29,8 @@ body {
 .center-card-section {
   box-sizing: border-box;
   width: 100%;
-  padding-left: 2ch;
-  padding-right: 2ch;
+  padding-left: 1ch;
+  padding-right: 1ch;
   border: 1ch solid white;
   margin-bottom: 5ch;
 }
