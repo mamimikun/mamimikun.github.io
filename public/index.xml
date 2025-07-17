@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>home on mamimikun personal website</title>
+    <title>home on mamimikun</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in home on mamimikun personal website</description>
+    <description>Recent content in home on mamimikun</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Jul 2025 20:05:23 -0600</lastBuildDate>
