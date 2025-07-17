@@ -1,9 +1,11 @@
 <h3><b>[{{ .title }}]: {{ .company }} ({{ .duration }})</b></h3>
 <p>{{ .description }}</p>
+
+{{ if .highlights }}
 <ul>
-  {{ if .highlights }}
     {{ range $v := .highlights }}
       <li>{{ $v }}</li>
     {{ end }}
-  {{ end }}
 </ul>
+{{ end }}
+
