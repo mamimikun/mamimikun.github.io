@@ -11,34 +11,26 @@
 </div>
 <div class="center-card-section">
   <h2>Education</h2>
-  <ul>
     {{ range site.Data.resume.education }}
     {{ partial "resume_card_misc.html" . }}
     {{ end }}
-  </ul>
 </div>
 <div class="center-card-section">
   <h2>Projects</h2>
-  <ul>
     {{ range site.Data.resume.projects }}
     {{ partial "resume_card_misc.html" . }}
     {{ end }}
-  </ul>
 </div>
 <div class="center-card-section">
   <h2>Skills</h2>
-  <ul>
     {{ range site.Data.resume.skills }}
     {{ partial "resume_card_misc.html" . }}
     {{ end }}
-  </ul>
 </div>
 <div class="center-card-section">
   <h2>Volunteer Work</h2>
-  <ul>
     {{ range site.Data.resume.volunteering }}
     {{ partial "resume_card_misc.html" . }}
     {{ end }}
-  </ul>
 </div>
 {{ end }}

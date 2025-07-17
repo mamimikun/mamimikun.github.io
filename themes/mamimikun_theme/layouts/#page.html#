@@ -1,6 +1,0 @@
-{{ define "main" }}
-<div class="center-card">
-  <h3>{{ .Title }}</h1>
-  <>
-</div>
-{{ end }}
