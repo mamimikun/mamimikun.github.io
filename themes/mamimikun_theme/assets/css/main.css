@@ -38,8 +38,7 @@ ul {
   padding-right: 1ch;
   border: 1ch solid white;
   margin-bottom: 5ch;
-  text-align: justify;
-  text-justify: auto;
+  text-align: left;
 }
 
 .center-card-section:focus {
@@ -199,8 +198,7 @@ a:hover {
   padding-right: 1ch;
   border: .5ch solid white;
   margin-bottom: 5ch;
-  text-align: justify;
-  text-justify: auto;
+  text-align: left;
 }
 }
 
